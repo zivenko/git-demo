@@ -13,5 +13,5 @@ hello ziven hello git!
 hello ziven hello git!
 hello ziven hello git!
 hello ziven hello git!
-hello ziven hello git!	master test
 hello ziven hello git!
+hello ziven hello git! hot-fix test
